@@ -1,24 +1,24 @@
-# GitHub Profile QR Code Generator
+# LinkedIn Profile QR Code
 
-This VB.NET script generates a QR code that links directly to your GitHub profile. By scanning the QR code with any compatible scanner app or device, users can easily access your GitHub profile page.
+This repository contains a QR code image that links directly to my LinkedIn profile. By scanning the QR code with any compatible scanner app or device, users can easily access my LinkedIn profile page.
 
 ## Usage
 
-1. Ensure you have Visual Studio installed on your system.
-2. Open the project in Visual Studio.
-3. Modify the `AddData()` method with your GitHub profile URL.
-4. Build and run the project.
-5. A QR code image named `GitHub_Profile.png` will be generated in the output directory.
+Simply scan the QR code using your smartphone or any QR code scanner app. This will open my LinkedIn profile page in your web browser, allowing you to connect with me professionally.
 
-## Customization
+## About
 
-You can customize the QR code's appearance by adjusting the `FillColor` and `BackColor` parameters in the script. Feel free to experiment with different color combinations to match your preferences.
+The QR code provided in this repository is generated using Python script. The script encodes my LinkedIn profile URL and generates a QR code image for easy access.
 
-## Dependencies
+## Repository Structure
 
-- Visual Studio (any recent version)
-- NuGet Package Manager for installing necessary libraries
+- `LinkedIn_Profile_QR_Code.png`: This is the QR code image that links to my LinkedIn profile.
+- `generate_qr_code.py`: Python script used to generate the QR code.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Feel free to use and modify the code as needed. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me on LinkedIn.
