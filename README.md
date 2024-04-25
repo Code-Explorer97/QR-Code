@@ -1,23 +1,24 @@
-# LinkedIn Profile QR Code
+# LinkedIn Profile QR Code Generator
 
-This repository contains a QR code image that links directly to my LinkedIn profile. By scanning the QR code with any compatible scanner app or device, users can easily access my LinkedIn profile page.
+This repository contains a Python script (`Scan.py`) to generate a QR code (`LinkedIn.png`) that links directly to my LinkedIn profile. By scanning the QR code with any compatible scanner app or device, users can easily access my LinkedIn profile page.
 
 ## Usage
 
-Simply scan the QR code using your smartphone or any QR code scanner app. This will open my LinkedIn profile page in your web browser, allowing you to connect with me professionally.
-
-## About
-
-The QR code provided in this repository is generated using Python script. The script encodes my LinkedIn profile URL and generates a QR code image for easy access.
+1. Ensure you have Python installed on your system.
+2. Run the `Scan.py` script.
+3. A QR code image named `LinkedIn.png` will be generated in the same directory.
+4. Print or share the QR code for others to scan and connect with you on LinkedIn.
 
 ## Repository Structure
 
-- `LinkedIn_Profile_QR_Code.png`: This is the QR code image that links to my LinkedIn profile.
-- `generate_qr_code.py`: Python script used to generate the QR code.
+- `Scan.py`: Python script used to generate the QR code.
+- `LinkedIn.png`: QR code image that links to my LinkedIn profile.
 
-## License
+## Customization
 
-This project is licensed under the MIT License. Feel free to use and modify the code as needed. See the [LICENSE](LICENSE) file for details.
+You can customize the QR code's appearance or link destination by modifying the `Scan.py` script.
+
+
 
 ## Contact
 
